@@ -1,0 +1,167 @@
+G:\C#\CourseProject\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+G:\C#\CourseProject\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+G:\C#\CourseProject\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+G:\C#\CourseProject\CourseProject\CourseProject\bin\Debug\EntityFramework.dll
+G:\C#\CourseProject\CourseProject\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+G:\C#\CourseProject\CourseProject\CourseProject\bin\Debug\EntityFramework.xml
+G:\C#\CourseProject\CourseProject\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+G:\C#\CourseProject\CourseProject\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.Login.resources
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.Register.resources
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.ManagerForm.resources
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.UserForm.resources
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.ShowClients.resources
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.ShowOrders.resources
+G:\C#\CourseProject\CourseProject\CourseProject\obj\Debug\CourseProject.ShowProduct.resources
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.Add_Product_Form.resources
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.Login.resources
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.ManagerForm.resources
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.Register.resources
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.ShowClients.resources
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.ShowOrders.resources
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.ShowProduct.resources
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.UserForm.resources
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\pirat\Documents\Курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+F:\4\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+F:\4\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+F:\4\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+F:\4\CourseProject\CourseProject\bin\Debug\EntityFramework.dll
+F:\4\CourseProject\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+F:\4\CourseProject\CourseProject\bin\Debug\EntityFramework.xml
+F:\4\CourseProject\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+F:\4\CourseProject\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.Add_Product_Form.resources
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.Login.resources
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.ManagerForm.resources
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.Register.resources
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.ShowClients.resources
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.ShowOrders.resources
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.ShowProduct.resources
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.UserForm.resources
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+F:\4\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\EntityFramework.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\EntityFramework.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.Add_Product_Form.resources
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.Login.resources
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.ManagerForm.resources
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.Register.resources
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.ShowClients.resources
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.ShowOrders.resources
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.ShowProduct.resources
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.UserForm.resources
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.Change_Product_Form.resources
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.Migrations.f.resources
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.Migrations.Database.resources
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Options.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Win32.Registry.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Newtonsoft.Json.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Buffers.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Collections.Immutable.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.ComponentModel.Annotations.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Memory.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Reflection.Metadata.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Security.AccessControl.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Security.Permissions.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Security.Principal.Windows.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Options.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Newtonsoft.Json.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Buffers.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Collections.Immutable.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Memory.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Reflection.Metadata.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\src\4 (Курсовик)\4\CourseProject\CourseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
